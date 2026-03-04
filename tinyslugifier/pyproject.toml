@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tinyslugifier"
-version = "0.1.0"
+version = "0.1.1"
 description = "A tiny slugifier for URL-friendly strings"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -15,7 +15,6 @@ authors = [
 ]
 license = { text = "MIT" }
 classifiers = [
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
@@ -25,10 +24,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/tinyslugifier"
-Documentation = "https://github.com/yourusername/tinyslugifier#readme"
-Repository = "https://github.com/yourusername/tinyslugifier"
-"Bug Tracker" = "https://github.com/yourusername/tinyslugifier/issues"
+Homepage = "https://github.com/nunombispo/tinyslugifier"
+Documentation = "https://github.com/nunombispo/tinyslugifier#readme"
+Repository = "https://github.com/nunombispo/tinyslugifier"
+"Bug Tracker" = "https://github.com/nunombispo/tinyslugifier/issues"
 
 [project.optional-dependencies]
 dev = ["build", "twine", "pytest"]
