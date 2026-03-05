@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tinyslugifier"
-version = "0.1.2"
+version = "0.1.1"
 description = "A tiny slugifier for URL-friendly strings"
 readme = "README.md"
 requires-python = ">=3.8"
